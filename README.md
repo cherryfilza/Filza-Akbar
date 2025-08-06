@@ -1,6 +1,7 @@
 # Filza-Akbar
 My GitHub portfolio and professional profile
-<!-- Banner (optional: use your own custom image here) -->
+<!-- Banner (optional: use your own custom <img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/699e057a-ec7a-4b1f-b9ec-b74bf73917f9" />
+image here) -->
 <p align="center">
   <img src="https://i.imgur.com/qF6hPav.png" alt="Filza Banner" width="100%" />
 </p>
