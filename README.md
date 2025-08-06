@@ -1,6 +1,7 @@
 cherryfilza/cherryfilza
 My GitHub portfolio and professional profile
-<!-- Banner (optional: use your own custom <img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/699e057a-ec7a-4b1f-b9ec-b74bf73917f9" />
+<!-- Banner (optional: use your own custom <img widt<img width="2520" height="690" alt="image" src="https://github.com/user-attachments/assets/a9fb273d-40a2-4cd3-8ba5-54adbba65519" />
+h="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/699e057a-ec7a-4b1f-b9ec-b74bf73917f9" />
 image here) -->
 <p align="center">
   <img src="https://i.imgur.com/qF6hPav.png" alt="Filza Banner" width="100%" />
